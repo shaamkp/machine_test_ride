@@ -1,5 +1,7 @@
 asgiref==3.7.2
 cffi==1.15.1
+channels==4.0.0
+channels-redis==4.1.0
 cryptography==41.0.3
 Django==4.2.5
 django-ckeditor==6.7.0
@@ -11,9 +13,11 @@ django-mail-queue==3.2.5
 django-richtextfield==1.6.1
 djangorestframework==3.14.0
 djangorestframework-simplejwt==5.3.0
+msgpack==1.0.7
 Pillow==10.0.0
 psycopg2-binary==2.9.7
 pycparser==2.21
 PyJWT==2.8.0
 pytz==2023.3.post1
+redis==5.0.1
 sqlparse==0.4.4
